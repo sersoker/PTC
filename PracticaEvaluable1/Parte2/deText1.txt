@@ -1,0 +1,12 @@
+Die Lotabweichung ist der Winkel zwischen der Lotrichtung und der Ellipsoidnormalen in einem bestimmten Punkt der Erde. Sie kann in europäischen Hochgebirgen 30 bis 50 Bogensekunden (ca. 0,01°) erreichen, im Flachland weniger, und entspricht der lokalen Neigung des Geoids zum Rotationsellipsoid der Landesvermessung.
+
+Auch wenn die Lotabweichung Null ist, weist die Lotrichtung (realisiert z. B. durch ein frei hängendes Schnurlot) nicht zum Erdmittelpunkt, sondern wegen der Abplattung der Erde (Fliehkraft der Erdrotation) bis zu etwa 700 Bogensekunden (0,2°) vorbei.
+
+Manchmal spricht man auch im Bauwesen von Lotabweichung, wenn ein Bauwerk oder eine Fassade aus dem Lot gerät.
+
+Definition[Bearbeiten | Quelltext bearbeiten]
+Laut dem Fédération Internationale des Géomètres-Wörterbuch ist die Lotabweichung der Winkel zwischen der Lotrichtung in einem Punkt und der diesem Punkt durch eine Projektion zugeordneten Normalen auf einem Rotationsellipsoid.
+
+Man spricht von einer astrogeodätischen Lotabweichung, wenn die Bestimmung der Lotrichtung mit den Methoden der geodätischen Astronomie erfolgte. Sie tritt bei der Transformation zwischen lokalen Koordinatensystemen auf. Dagegen beruht die gravimetrische Lotabweichung auf der Bestimmung der Lotrichtung durch Schweremessungen und wird über die Lösung der geodätischen Randwertaufgabe erhalten.
+
+Lotabweichungen hängen von den ellipsoidischen Koordinaten und damit von den Parametern des Bezugs- oder Referenzellipsoides und von dessen Lagerung gegenüber der Erde ab. Handelt es sich bei dem Bezugsellipsoid um ein geozentrisch (im Erdschwerpunkt) gelagertes und gleichzeitig mittleres Erdellipsoid, so spricht man von absoluten Lotabweichungen, andernfalls von relativen Lotabweichungen.f 50, for example, had 500 hectares.[4]
